@@ -1,0 +1,12 @@
+{
+	"id":"AceCFlags",
+	"name":"Ace Combat Flag Pack",
+	"author":"Seeker of Planetkillers",
+	"version":{
+		"major":1, 
+		"minor":0, 
+		"patch":1,
+	},
+	"description":"A pack of flags from Ace Combat.",
+	"gameVersion":"0.98a-RC8",
+}
