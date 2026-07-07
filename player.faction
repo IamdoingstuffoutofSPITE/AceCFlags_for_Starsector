@@ -1,0 +1,22 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+			"logo":"graphics/AceCFlags/factions/custom/Osea_Flag.png",
+			"crest":"graphics/AceCFlags/factions/custom/Osea_Crest.png"
+		},
+		{
+			"logo":"graphics/AceCFlags/factions/custom/ISAF_Flag.png",
+			"crest":"graphics/AceCFlags/factions/custom/ISAF_Crest.png"
+		},
+		{
+			"logo":"graphics/AceCFlags/factions/custom/Erusea_Flag.png",
+			"crest":"graphics/AceCFlags/factions/custom/Erusea_Crest.png"
+		},
+		{
+			"logo":"graphics/AceCFlags/factions/custom/Yukes_Flag.png",
+			"crest":"graphics/AceCFlags/factions/custom/Yukes_Crest.png"
+		},
+	],
+}
